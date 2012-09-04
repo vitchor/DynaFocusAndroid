@@ -1,0 +1,4 @@
+DynaFocusAndroid
+================
+
+Android proj
